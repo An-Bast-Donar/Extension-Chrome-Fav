@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Destacar Pestaña",
+  "description": "Extensión para marcar pestañas como destacadas",
+  "version": "1.0",
+  "icons": {
+    "128": "icon.png"
+  },
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "tabs",
+    "notifications",
+    "contextMenus"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
