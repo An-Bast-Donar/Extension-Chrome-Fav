@@ -1,2 +1,2 @@
-# Extencion Chrome Fav
- Extencion de chrome para marcar las paginas con un icono de destacado
+# Extension Chrome Fav
+ Extension de chrome para marcar las paginas con un icono de destacado
